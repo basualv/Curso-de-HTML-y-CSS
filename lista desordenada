@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+            <title>Ejercicio de Introducción a HTML en OpenBootcamp</title>
+    </head>
+    <body>
+        <!-- Este es mi primer comentario de dos líneas
+            Aprendiendo a documentar mi código con OpenBootcamp -->
+
+        <h3>Lista desordenada</h3>
+        <ul>
+            <li href="https://www.youtube.com/watch?v=9Em-dDfkdHQ"> Modulo 3 Como Desbloquear su Potencial</li>
+            <li href="https://www.youtube.com/watch?v=6uDZJ4gytno&list=PLVCAyfXUAsByGdNHLdAU9HuuAuTY9gspS&index=3"> Modulo 2 7 leyes metales </li>
+            <li href="https://www.youtube.com/watch?v=62wDYoPC4Sg&list=PLVCAyfXUAsByGdNHLdAU9HuuAuTY9gspS&index=1"> Modulo 1 La Psicologia del Éxito </li>
+        </ul>
+
+    </body>
+
+</html>
