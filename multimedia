@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Multimedia</title>
+    </head>
+    <body>
+        <div>
+            <h1>Aprendiendo a usar imagenes</h1>
+            <br>
+            <img src="https://as01.epimg.net/meristation/imagenes/2018/07/19/header_image/321033641532015367.jpg" alt="fortnite" width="350" height="350">
+        </div>
+        <br>
+        <div>
+            <h1>Aprendiendo a utilizar los videos</h1>
+            <br>
+            <video src="videos/fornite.mp4" width="500" height="500" controls autoplay loop muted></video>
+        </div>
+        <br>
+        <div>
+            <h1>APRENDIENDO A UTILIZAR AUDIOS</h1>
+            <br>
+            <audio src="fortnite.mp3" controls loop autoplay></audio>
+        </div>
+
+    </body>
+</html>
